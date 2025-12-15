@@ -2,6 +2,10 @@
 
 A fully-featured market/shop system for FiveM servers with multiple market types, modern NUI interface, and comprehensive payment options.
 
+[Preview](https://www.youtube.com/watch?v=aHp3zNe2gqU)
+
+[Forum post](https://forum.cfx.re/t/free-esx-tr-markets-script/5371847)
+
 ## Features
 
 - **Multiple Preconfigured Market Types**
